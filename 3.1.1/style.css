@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#butonlar {
+    height: 60px;
+    font-size: 2rem!important;
+    background-color: black;
+
+  }
+  .all {
+background-color: black;
+height: 700px;
+  }
+  .calc input {
+      
+    height: 60px;
+    width: 170px; 
+  }
+  .calc {
+      margin-top: 100px;
+      display: block;
+      margin: auto;
+  }
